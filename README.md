@@ -1,6 +1,9 @@
-# avax-nft-memes
-[the_garbage_man](https://twitter.com/the_garbage_man) NFT community meme repository for Avalanche
+<h1 align="center">avax-nft-memes</h1>
 
+<h2 align="center">
+  <img src="https://i.ibb.co/qxB9GC0/ddp-01.png" height="415" width="320"/>
+</h2>
 
-# Using .gifs via Tenor
-- .gif files can be found on [Tenor](https://tenor.com/users/_the_garbage_man_) and can be sourced via Discord/Twitter GIF functionality
+<h3 align="center">
+  <p>Created by <a href="https://twitter.com/the_garbage_man">the_garbage_man</a></p>
+</h3>
