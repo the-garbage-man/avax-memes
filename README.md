@@ -1,4 +1,4 @@
-# avax-memes
+# avax-nft-memes
 [the_garbage_man](https://twitter.com/the_garbage_man) NFT community meme repository for Avalanche
 
 
